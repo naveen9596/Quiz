@@ -1,4 +1,4 @@
-**fundamentals of operating systems**:
+**Fundamentals of operating systems**:
 
 ---
 
